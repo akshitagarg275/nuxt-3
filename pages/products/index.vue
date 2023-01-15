@@ -8,6 +8,7 @@
 </template>
 
 <script setup>
+/*global definePageMeta*/
     definePageMeta({
         layout : 'products'
     })

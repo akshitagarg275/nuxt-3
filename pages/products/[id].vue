@@ -6,6 +6,7 @@
 </template>
 
 <script setup>
+/*global useRoute, definePageMeta*/
 const { id } = useRoute().params
 definePageMeta({
         layout : 'products'
